@@ -1,0 +1,44 @@
+.drawer-wrapper {
+     height: 90%;
+     overflow: hidden;
+}
+
+.drawer-content {
+     display: none;
+     position: fixed;
+     bottom: 0;
+     left: 30%;
+     width: 40%;
+     background-color: #ffffff;
+     border: 1px solid rgb(199, 198, 198);
+     border-radius: 10px;
+}
+
+.open-drawer-button {
+     display: block;
+     margin: 20px;
+}
+
+.drawer-content {
+     display: block;
+     height: 100%;
+     transform: translateY(100%);
+     transition: transform 0.7s ease;
+}
+
+.drawer-content.open {
+     transform: translateY(0);
+}
+
+@media screen and (max-width:768px) {
+
+     .drawer-content {
+           
+               position: fixed;
+               bottom: 0;
+               left: 0;
+               width: 90%;
+               background-color: #ffffff;
+               border: 1px solid black;
+          }
+}
