@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+Unstop-UI
+Introduction
+This is a User Interface design with add assesment functionality with the help of Figma.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Deployed App
+https://graceful-crumble-4eaf91.netlify.app/
 
-## Available Scripts
+Fully Responsive:-
+1.desktop view
+<img width="906" alt="image" src="https://github.com/ruchipriya1009/Unstop_assn/assets/105973023/667175c4-4526-4c2e-9437-daf717c1ae7f">
+<img width="900" alt="image" src="https://github.com/ruchipriya1009/Unstop_assn/assets/105973023/afa17d0b-4e65-4a1a-8b41-25990660c0ab">
 
-In the project directory, you can run:
 
-### `npm start`
+2.tablet view
+<img width="457" alt="image" src="https://github.com/ruchipriya1009/Unstop_assn/assets/105973023/2a00a359-3de9-4a1b-bb9d-d7a39b2e3293">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+3.mobile view
+<img width="208" alt="image" src="https://github.com/ruchipriya1009/Unstop_assn/assets/105973023/695f4d5e-5eb6-4419-b211-3b4312b1e8ff">
+<img width="156" alt="image" src="https://github.com/ruchipriya1009/Unstop_assn/assets/105973023/1d7c061d-bcc9-42aa-bab5-e62817684f4b">
+<img width="266" alt="image" src="https://github.com/ruchipriya1009/Unstop_assn/assets/105973023/5afe8ea5-6eb2-43f4-bb06-dc0a5a57646a">
+<img width="265" alt="image" src="https://github.com/ruchipriya1009/Unstop_assn/assets/105973023/5395ebb4-5299-40ac-82a5-37c1226842c7">
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Installation & Getting started
+npm install my-project
+cd my-project
+npm start
+Technology Stack
+React.js
+Javascript
+HTML
+CSS
+React-Responsive
+Figma
