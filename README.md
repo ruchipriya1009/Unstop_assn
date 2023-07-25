@@ -11,18 +11,18 @@ https://graceful-crumble-4eaf91.netlify.app/
 <img width="893" alt="image" src="https://github.com/ruchipriya1009/Unstop_assn/assets/105973023/7c1ed6e6-c29b-4a0f-b680-f193802bf369">
 <img width="882" alt="image" src="https://github.com/ruchipriya1009/Unstop_assn/assets/105973023/0578c77a-8345-42d4-bf2f-ebfd823fd611">
 
-
-<img width="900" alt="image" src="https://github.com/ruchipriya1009/Unstop_assn/assets/105973023/afa17d0b-4e65-4a1a-8b41-25990660c0ab">
-
-
 ## 2.tablet view
-<img width="457" alt="image" src="https://github.com/ruchipriya1009/Unstop_assn/assets/105973023/2a00a359-3de9-4a1b-bb9d-d7a39b2e3293">
+<img width="476" alt="image" src="https://github.com/ruchipriya1009/Unstop_assn/assets/105973023/fad7802a-4b12-4c75-897c-aefcc0bcf542">
+
 
 ## 3.mobile view
-<img width="208" alt="image" src="https://github.com/ruchipriya1009/Unstop_assn/assets/105973023/695f4d5e-5eb6-4419-b211-3b4312b1e8ff">
-<img width="156" alt="image" src="https://github.com/ruchipriya1009/Unstop_assn/assets/105973023/1d7c061d-bcc9-42aa-bab5-e62817684f4b">
-<img width="266" alt="image" src="https://github.com/ruchipriya1009/Unstop_assn/assets/105973023/5afe8ea5-6eb2-43f4-bb06-dc0a5a57646a">
-<img width="265" alt="image" src="https://github.com/ruchipriya1009/Unstop_assn/assets/105973023/5395ebb4-5299-40ac-82a5-37c1226842c7">
+<img width="227" alt="image" src="https://github.com/ruchipriya1009/Unstop_assn/assets/105973023/4dd500f0-3662-4752-8fa2-4b2a094ab1d1">
+
+<img width="154" alt="image" src="https://github.com/ruchipriya1009/Unstop_assn/assets/105973023/49ba3f69-0235-4f7a-87ff-9deca3a8b764">
+
+<img width="217" alt="image" src="https://github.com/ruchipriya1009/Unstop_assn/assets/105973023/849831b3-bf3b-444a-92d5-13c8725e6269">
+
+<img width="166" alt="image" src="https://github.com/ruchipriya1009/Unstop_assn/assets/105973023/b970f746-27b3-4a67-8070-d94f4454d469">
 
 
 
