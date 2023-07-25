@@ -8,7 +8,10 @@ https://graceful-crumble-4eaf91.netlify.app/
 
 ## Fully Responsive:-
 ## 1.desktop view
-<img width="906" alt="image" src="https://github.com/ruchipriya1009/Unstop_assn/assets/105973023/667175c4-4526-4c2e-9437-daf717c1ae7f">
+<img width="893" alt="image" src="https://github.com/ruchipriya1009/Unstop_assn/assets/105973023/7c1ed6e6-c29b-4a0f-b680-f193802bf369">
+<img width="882" alt="image" src="https://github.com/ruchipriya1009/Unstop_assn/assets/105973023/0578c77a-8345-42d4-bf2f-ebfd823fd611">
+
+
 <img width="900" alt="image" src="https://github.com/ruchipriya1009/Unstop_assn/assets/105973023/afa17d0b-4e65-4a1a-8b41-25990660c0ab">
 
 
