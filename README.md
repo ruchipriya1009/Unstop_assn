@@ -24,11 +24,11 @@ Fully Responsive:-
 
 
 
-Installation & Getting started
+##Installation & Getting started
 npm install my-project
 cd my-project
 npm start
-Technology Stack
+##Technology Stack
 React.js
 Javascript
 HTML
