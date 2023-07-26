@@ -24,9 +24,14 @@ https://graceful-crumble-4eaf91.netlify.app/
 
 <img width="166" alt="image" src="https://github.com/ruchipriya1009/Unstop_assn/assets/105973023/b970f746-27b3-4a67-8070-d94f4454d469">
 
-
-
-
+## Features
+List out the key features of your application.
+- Drawer
+- Modal
+- add assesment
+- hamburg
+- Responsive for tablet viw, mobile view
+  
 
 ## Installation & Getting started
 
@@ -44,3 +49,4 @@ npm start
 - CSS
 - React-Responsive
 - Figma
+- localstorage (DOM)
