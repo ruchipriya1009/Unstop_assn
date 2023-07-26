@@ -201,7 +201,6 @@
      align-items: center;
      gap: 16px;
      margin-top: 10px;
-
 }
 
 .sec5_rem {
@@ -386,13 +385,7 @@
 
      }
 
-     .frame_sec3 {
-          /* display: grid; */
-          grid-template-columns: repeat(1, 1fr);
-          border: 1px solid red;
-          height: auto;
-          display: none;
-     }
+   
 
      .frame_sec1 {
           height: auto;
@@ -408,6 +401,8 @@
      .frame_sec2 {
           display: none;
      }
+
+
 
      .frame_part5 {
 
@@ -433,7 +428,22 @@
           padding: 0px 10px 0px 10px;
 
      }
+.frame_sec12{
+     width: auto;
+     display: grid;
+     grid-template-columns: repeat(1,1fr);
+     border: 1px solid rgb(196, 196, 196);
+     border-radius: 10px;
 
+}
+.frame_sec13{
+     display: flex;
+     border-bottom: 1px solid rgb(196, 195, 195);
+}
+.frame_sec4{
+     width: auto;
+     border-bottom: 1px solid rgb(196, 196, 196);
+}
      .frame_assn {
           display: flex;
           gap: 20px;
@@ -445,13 +455,8 @@
           padding: 10px;
 
      }
-     .mobile{
-         
-          display: grid;
-          grid-template-columns: (50%,50%);
-     }
-
 }
+
 
 
 .hrs_line {
@@ -462,7 +467,6 @@
 }
 
 
-/* Tablet View */
 
 @media (min-width: 768px) and (max-width: 1024px) {
      .navbar {
@@ -473,38 +477,43 @@
           width: auto;
      }
 
-     .frame_sec2 {
-     
-        width: auto;
-     }
-     .frame_sec3{
-
-width: auto;
-
-        
-     }
-     
-     .frame_sec4 {
-          display: grid;
-          grid-template-columns: (2,1fr);
-          width: auto;
-          height: auto;
-
-          padding:0px 20px 0px 20px;
-         
-     }
-     
-     .frame_third {
-          height: auto !important;
-          width: auto;
-          /* border: 1px solid green; */
-     }
-
      .frame_part5 {
           display: grid;
           grid-template-columns: repeat(2, 1fr);
           height: auto;
-
+          row-gap: 10px;
+/* width: 50% !important; */
      }
 
+.frame_sec3{
+     display: grid;
+     grid-template-columns: repeat(2,1fr);
+     height: auto;
+width: 50% !important;
+   gap: 0px !important;
+}
+
+
+  .frame_third {
+       height: auto !important;
+       width: 50%;
+       /* border: 1px solid green; */
+       margin-top: 12%;
+  }
+
+  .frame_part4 {
+       height: auto;
+       
+  }
+ 
+  .frame_assen {
+       height: auto !important;
+       margin-top: 20px;
+       padding: 10px;
+
+  }
+  .frame_sec{
+     height: auto;
+  }
+  
 }
